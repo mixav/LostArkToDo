@@ -1,4 +1,4 @@
-package com.damnteam.LostArkToDo.model;
+package com.damnteam.LostArkToDo.constants;
 
 public enum ResetType {
     DAILY, WEEKLY
